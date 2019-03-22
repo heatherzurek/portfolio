@@ -1,21 +1,18 @@
 .col-md-4 {
   padding: 5px;
-  background-color: #3a3d12;
+  background-color: #3e6865;
+  min-height: 680px;
 }
 
 .container {
   padding: 8px;
 }
 
-.top-buffer {
-  margin-top:200px;
-}
-
 h3 {
   font-family: 'Roboto', sans-serif;
   margin: 5px;
   padding: 4px;
-  background-color: #4e4f4c;
+  background-color: #1f3d3b;
   opacity: 0.8;
 }
 
@@ -27,14 +24,19 @@ img {
   color: #ffffff;
 }
 
-
 .row {
   opacity: 0.9;
   margin-top: 20px;
 }
 
+.learning {
+  font-weight: bold;
+  background-color: #ffffff;
+}
+
 p.unimportant .important {
   font-style: italic;
+  font-weight: bold;
   background-color: #ffffff;
 }
 
@@ -51,16 +53,22 @@ img.main3 {
   padding: 15px;
 }
 
+img.contact {
+  width: 100px;
+  height: 100px;
+}
+
 #loud {
   font-size: 40px;
 }
 
 a {
 color: black;
+font-weight: bold;
 }
 
 body {
   font-family: 'Roboto', sans-serif;
   color: black;
-  background-image: url("https://images.unsplash.com/photo-1547968196-230ad3b7cbf7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-image: url("https://images.unsplash.com/photo-1547707981-eeb6a7ac3c25?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
 }
