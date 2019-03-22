@@ -22,7 +22,7 @@ img {
 }
 
 .highlight {
-  color: #ffffff;
+  color: #d3b021;
 }
 
 .row {
@@ -32,13 +32,13 @@ img {
 
 .learning {
   font-weight: bold;
-  background-color: #ffffff;
+  background-color: #d3b021;
 }
 
 p.unimportant .important {
   font-style: italic;
   font-weight: bold;
-  background-color: #ffffff;
+  background-color: #d3b021;
 }
 
 img.main {
@@ -63,6 +63,7 @@ a {
 color: black;
 font-weight: bold;
 background-color: #94b2b0;
+opacity: 0.5;
 }
 
 body {
