@@ -10,6 +10,7 @@
 
 h3 {
   font-family: 'Roboto', sans-serif;
+  font-weight: bold;
   margin: 5px;
   padding: 4px;
   background-color: #1f3d3b;
@@ -58,13 +59,10 @@ img.contact {
   height: 100px;
 }
 
-#loud {
-  font-size: 40px;
-}
-
 a {
 color: black;
 font-weight: bold;
+background-color: #94b2b0;
 }
 
 body {
