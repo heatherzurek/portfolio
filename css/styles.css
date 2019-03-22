@@ -1,12 +1,12 @@
 .col-md-3 {
   padding: 5px;
   text-align: center;
-  background-color: #63a4a8;
+  background: #777675;
 }
 
 .col-md-9 {
   padding: 5px;;
-  background-color: #206063;
+  background: linear-gradient(#777675, #123449);
 }
 
 .container {
@@ -17,18 +17,16 @@ h3 {
   font-family: 'Roboto', sans-serif;
   margin: 5px;
   padding: 4px;
-  background-color: #80b2af;
+  background-color: #ffffff;
   opacity: 0.8;
 }
 
 img {
   width: 180px;
-  border-radius: 2px;
-  border;
 }
 
 .highlight {
-  color: #ffffff;
+  color: #ff810c;
 }
 
 
