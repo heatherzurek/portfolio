@@ -10,7 +10,7 @@ _This is a landing page created to host my various projects I've created while a
 
 ## Setup/Installation Requirements
 
-*_[I'm an inline-style link with title](https://heatherzurek.github.io/portfolio/ "You can view the website here")_
+_https://heatherzurek.github.io/portfolio/_
 
 ## Known Bugs
 
