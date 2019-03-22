@@ -1,23 +1,21 @@
-.col-md-3 {
+.col-md-4 {
   padding: 5px;
-  text-align: center;
   background-color: #3a3d12;
-}
-
-.col-md-9 {
-  padding: 5px;;
-  background-color: #777675;
 }
 
 .container {
   padding: 8px;
 }
 
+.top-buffer {
+  margin-top:200px;
+}
+
 h3 {
   font-family: 'Roboto', sans-serif;
   margin: 5px;
   padding: 4px;
-  background-color: #2b2d0b;
+  background-color: #4e4f4c;
   opacity: 0.8;
 }
 
@@ -26,7 +24,7 @@ img {
 }
 
 .highlight {
-  color: #8c912f;
+  color: #ffffff;
 }
 
 
@@ -37,7 +35,7 @@ img {
 
 p.unimportant .important {
   font-style: italic;
-  background-color: #8c912f;
+  background-color: #ffffff;
 }
 
 img.main {
@@ -48,12 +46,17 @@ img.main2 {
   float: right;
 }
 
+img.main3 {
+  float: left;
+  padding: 15px;
+}
+
 #loud {
   font-size: 40px;
 }
 
 a {
-color: white;
+color: black;
 }
 
 body {
