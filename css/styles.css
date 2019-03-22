@@ -13,7 +13,10 @@
   padding: 5px;
 }
 
-h3{
+h3 {
+  margin: 5px;
+  border: 2px solid white;
+  padding: 4px;
   background-color: white;
 }
 
@@ -32,8 +35,17 @@ img {
   opacity: 0.9;
 }
 
-.important {
+p.unimportant .important {
   font-style: italic;
+  background-color: red;
+}
+
+img.main {
+  float: left;
+}
+
+#loud {
+  font-size: 40px;
 }
 
 a {
