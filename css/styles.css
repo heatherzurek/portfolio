@@ -1,0 +1,9 @@
+.col-md-2 {
+  background-color: grey;
+  padding: 5px;
+  position: relative;
+}
+
+.col-md-10 {
+  background-color: lightblue;
+}
